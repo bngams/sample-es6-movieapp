@@ -1,0 +1,18 @@
+#movie-form {
+    text-align: center;
+}
+
+#movie-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.movie-card.mdl-card {
+    width: 320px;
+    height: 320px;
+    margin: 15px;
+  }
+.movie-card > .mdl-card__title {
+    color: #fff;
+    background-color: aquamarine;
+}
